@@ -1,0 +1,24 @@
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\bin\Debug\Personeller.exe.config
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\bin\Debug\Personeller.exe
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\bin\Debug\Personeller.pdb
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\bin\Debug\Guna.UI2.dll
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.csproj.AssemblyReference.cache
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.Form1.resources
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.Properties.Resources.resources
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.csproj.GenerateResource.cache
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.csproj.CoreCompileInputs.cache
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.csproj.CopyComplete
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.exe
+C:\Users\Z3NG1N\Desktop\Karışık\Personeller\Personeller\obj\Debug\Personeller.pdb
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\bin\Debug\Personeller.exe.config
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\bin\Debug\Personeller.exe
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\bin\Debug\Personeller.pdb
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\bin\Debug\Guna.UI2.dll
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.csproj.AssemblyReference.cache
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.Form1.resources
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.Properties.Resources.resources
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.csproj.GenerateResource.cache
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.csproj.CoreCompileInputs.cache
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.csproj.CopyComplete
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.exe
+C:\Users\Z3NG1N\Desktop\C# Projelerim\Personeller\Personeller\obj\Debug\Personeller.pdb
